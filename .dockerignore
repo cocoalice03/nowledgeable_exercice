@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
+.gitignore
+quantization_II.ipynb
+model_app.py
+test_api.py
+train_model.py
